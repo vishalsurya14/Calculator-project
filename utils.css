@@ -1,0 +1,39 @@
+.text-center {
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    text-shadow:0 4px 25px rgba(232, 20, 20, 1) ;
+}
+
+
+
+.bg-red {
+    background: red;
+}
+
+.mx-auto {
+    margin: auto;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.item-center {
+    align-items: center;
+}
+
+footer {
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+footer a {
+    color: white;
+}
